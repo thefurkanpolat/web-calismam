@@ -1,2 +1,0 @@
-# web-calismam
-uygulama ödevi
